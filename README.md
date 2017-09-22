@@ -3,7 +3,7 @@
 
 1. Vuong, Annalies, Tristan Nixon, and Brendon Towle. [A method for finding prerequisites within a curriculum.](http://educationaldatamining.org/EDM2011/wp-content/uploads/proc/edm2011_paper8_short_Vuong.pdf) EDM. 2011.
 
-1. Talukdar, Partha Pratim, and William W. Cohen. [Crowdsourced comprehension: predicting prerequisite structure in wikipedia.](https://pdfs.semanticscholar.org/a535/57c7611e66d61054acf163a9d8d4ba161c51.pdf) BEA@NAACL-HLT. 2012.
+1. Talukdar, Partha Pratim, and William W. Cohen. [Crowdsourced comprehension: predicting prerequisite structure in wikipedia.](https://pdfs.semanticscholar.org/a535/57c7611e66d61054acf163a9d8d4ba161c51.pdf) BEA<span>@</span>NAACL-HLT. 2012.
 
 1. Scheines, Richard, Elizabeth Silver, and Ilya Goldin. [Discovering prerequisite relationships among knowledge components.](http://www.contrib.andrew.cmu.edu/~esilver1/ScheinesSilverGoldin-EDM2014.pdf) EDM. 2014.
 
