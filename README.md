@@ -22,3 +22,5 @@
 1. Liang, Chen, et al. [Recovering Concept Prerequisite Relations from University Course Dependencies.](http://www.personal.psu.edu/cul226/files/eaai2017_cpr-recover.pdf) EAAI. 2017. [Dataset](https://github.com/harrylclc/eaai17-cpr-recover)
 
 1. Pan, Liangming, et al. [Prerequisite Relation Learning for Concepts in MOOCs.](http://www.aclweb.org/anthology/P17-1133) ACL. 2017.
+
+1. Labutov, Igor, et al. [Semi-Supervised Techniques for Mining Learning Outcomes and Prerequisites.](https://dl.acm.org/citation.cfm?id=3098187) KDD. 2017.
