@@ -26,3 +26,5 @@
 1. Labutov, Igor, et al. [Semi-Supervised Techniques for Mining Learning Outcomes and Prerequisites.](https://dl.acm.org/citation.cfm?id=3098187) KDD. 2017.
 
 1. Liang, Chen, et al. [Investigating Active Learning for Concept Prerequisite Learning.](http://www.personal.psu.edu/cul226/files/eaai18_active.pdf) EAAI. 2018.
+
+1. Fabbri, Alexander R., et al. [TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation.](https://arxiv.org/pdf/1805.04617.pdf) ACL. 2018.
