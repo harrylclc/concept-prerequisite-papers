@@ -28,3 +28,5 @@
 1. Liang, Chen, et al. [Investigating Active Learning for Concept Prerequisite Learning.](http://www.personal.psu.edu/cul226/files/eaai18_active.pdf) EAAI. 2018.
 
 1. Fabbri, Alexander R., et al. [TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation.](https://arxiv.org/pdf/1805.04617.pdf) ACL. 2018.
+
+1. ALSaad, Fareedah, et al. [Mining MOOC Lecture Transcripts to Construct Concept Dependency Graphs.](http://educationaldatamining.org/files/conferences/EDM2018/papers/EDM2018_paper_212.pdf) EDM. 2018.
